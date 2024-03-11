@@ -16,7 +16,6 @@ def readme():
         content = f.read()
     return content
 
-
 version_file = 'mmagic/version.py'
 
 
